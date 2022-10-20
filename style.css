@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 2%;
+}
+h1{
+    text-align: center;
+    width: 100%;
+    border-bottom: 2px solid black;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+}
+div{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
